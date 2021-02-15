@@ -1,0 +1,34 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.insertFinalNewline": true,
+  "search.useIgnoreFiles": false,
+  "prettier.singleQuote": true,
+  "search.exclude": {
+    "**/build": true,
+    "**/node_modules": true,
+    "**/.next": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "Ardha",
+    "Asterius",
+    "Asura",
+    "Kaguya",
+    "Magatsu",
+    "Nebiros",
+    "Noor",
+    "Okami",
+    "Orichalcum",
+    "Orlov",
+    "Tsukiyomi",
+    "elec",
+    "lastdays",
+    "tailwindcss"
+  ]
+}
